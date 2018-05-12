@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25185
     wikipedia: http://en.wikipedia.org/wiki/Clifford_D._Simak
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32026#The-World-That-Couldn-t-Be
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
